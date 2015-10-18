@@ -1,0 +1,10 @@
+C:\Users\Pao\Desktop\CameleonPrinterService\CameleonPrinterService\bin\CameleonPrinterService.dll
+C:\Users\Pao\Desktop\CameleonPrinterService\CameleonPrinterService\bin\CameleonPrinterService.pdb
+C:\Users\Pao\Desktop\CameleonPrinterService\CameleonPrinterService\obj\Debug\CameleonPrinterService.dll
+C:\Users\Pao\Desktop\CameleonPrinterService\CameleonPrinterService\obj\Debug\CameleonPrinterService.pdb
+C:\Users\Pao\Desktop\CameleonPrinterService\CameleonPrinterService\obj\Debug\CameleonPrinterService.csprojResolveAssemblyReference.cache
+C:\Users\DevMode\Desktop\CameleonPrinterService\CameleonPrinterService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DevMode\Desktop\CameleonPrinterService\CameleonPrinterService\obj\Debug\CameleonPrinterService.dll
+C:\Users\DevMode\Desktop\CameleonPrinterService\CameleonPrinterService\bin\CameleonPrinterService.dll
+C:\Users\DevMode\Desktop\CameleonPrinterService\CameleonPrinterService\bin\CameleonPrinterService.pdb
+C:\Users\DevMode\Desktop\CameleonPrinterService\CameleonPrinterService\obj\Debug\CameleonPrinterService.pdb
