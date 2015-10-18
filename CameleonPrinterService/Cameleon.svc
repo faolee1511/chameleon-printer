@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CameleonPrinterService.Cameleon" CodeBehind="Cameleon.svc.cs" %>
